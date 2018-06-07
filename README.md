@@ -5,5 +5,5 @@ By playing as the wizard Gandolf your mission is to slay all the enemies that yo
 
 
 ## Getting Started
-Wizards is a pure Python game made with Python 3 by using inheritance from classes.
+Wizards is a pure Python game made with Python 3 by using class inheritance.
 
